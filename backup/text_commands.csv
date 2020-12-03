@@ -1,0 +1,64 @@
+Text,Action_Key
+npm list,npm_list
+list the dependencies,npm_list
+list packages which are there in app,npm_list
+what are the dependent packages,npm_list
+execute list command,npm_list
+is there any dependent package?,npm_list
+what dependencies does this project have?,npm_list
+list out packages dependent to this,npm_list
+Provide me information on packages on this,npm_list
+which all packages are installed?,npm_list
+I want to know which packages are dependent,npm_list
+tell me what are dependent packages,npm_list
+can you tell me what are the dependencies?,npm_list
+any dependent modules installed?,npm_list
+what are dependent modules here?,npm_list
+show all dependent packages or modules,npm_list
+display list of dependencies,npm_list
+Dependencies in app,npm_list
+show installed packages,npm_list
+Want to know the dependencies or packages installed,npm_list
+provide list of installed dependencies,npm_list
+npm init,npm_init
+initialize with npm,npm_init
+create package json file,npm_init
+create package.json,npm_init
+help me setup the package.json,npm_init
+set up  an npm package,npm_init
+initialise this with npm,npm_init
+guide me through initialization,npm_init
+set this as npm directory,npm_init
+make this root directory for project,npm_init
+setup package.json in this folder,npm_init
+set this as root directory of project,npm_init
+use npm to initialize this folder with package.json,npm_init
+use this directory as root for project,npm_init
+init directory with npm,npm_init
+set this folder using npm,npm_init
+keep package.json here,npm_init
+set up using npm,npm_init
+initialize the project by npm,npm_init
+make package json,npm_init
+create and add details to package.json,npm_init
+npm install,npm_install
+install package,npm_install
+add dependency,npm_install
+install external dependencies,npm_install
+install npm packages,npm_install
+install the modules,npm_install
+install external sources,npm_install
+add dependencies using npm,npm_install
+get all dependencies installed,npm_install
+install all the packages,npm_install
+install packages defined in package.json,npm_install
+resolve all dependencies,npm_install
+install everything that is needed for project,npm_install
+get and install all the external resources,npm_install
+add a package,npm_install
+download all dependencies,npm_install
+download all packages,npm_install
+setup all the packages,npm_install
+install required external code,npm_install
+install required packages,npm_install
+get all packages as needed,npm_install

@@ -1,0 +1,9 @@
+﻿Action_key,Command,Description
+npm_init,npm init,Initialize package.json in directory
+npm_list,npm ls,List everything you have installed in the current directory
+npm_install,npm install [<name> [<name> ...]] [--save|--save-dev|--save-optional],Install a package
+npm_install_by_version,npm install <module-name>@<version-name>,Install a package in the version
+npm_uninstall,npm uninstall <name>,"Uninstall a package, completely removing everything npm installed on its behalf"
+npm_update,npm update [<name> [<name> ...]],Update all the packages listed to the latest version (specified by the tag config). Also install missing packages
+npm_docs,npm docs <module-name>,Display the README.md / documentation / npmjs.org page of a given library
+npm_version,npm --version,Display version of NPM
